@@ -8,3 +8,9 @@ Learning Git, GitHub, commits, branches and repositories.
 
 ## Author
 Alok
+
+# Teacher 
+Sharadha Khapra
+
+# Studend 
+Delta student
